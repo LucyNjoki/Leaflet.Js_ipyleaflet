@@ -37,7 +37,7 @@ sudo -H pip3 install ipyleaflet
 
 ## Author
 
-* **Peter Otieno ** - [peterakworo](https://github.com/peter-akworo) - 
+* **Peter Otieno** - [peterakworo](https://github.com/peter-akworo) - [LinkedIn](https://www.linkedin.com/in/peter-onyango-184446132/)
 
 ## Acknowledgments
 
